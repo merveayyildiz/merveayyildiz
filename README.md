@@ -1,7 +1,7 @@
 ### Hello World! :full_moon_with_face:
 
 Nice to see you here! 🤩
-I graduated from Marmara University. I am passionate, always willing to learn and work across technologies and fields. I am currently developing applications on asp.net with c#. Other than that i am interested in Angular. ⚡
+I graduated from Marmara University. I am passionate, always willing to learn and work across technologies and domains. I am currently developing applications on asp.net with c#. Other than that i am interested in Angular. ⚡
 
 
 🔭 I’m currently working on e-Transformation Company
